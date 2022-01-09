@@ -1,2 +1,6 @@
-# technical_test_cencosud
-Desarrollo de prueba técnica.
+# Prueba técnica Backend
+
+## Como ejecutar
+
+docker-compose up --build
+
